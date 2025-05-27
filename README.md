@@ -1,74 +1,61 @@
-# Adil Zaheer
+<h1 align="center">Hi 👋, I'm Adil Zaheer</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
-**Full Stack Web Developer | MERN Stack Specialist**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="300" height="250" />
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer focused on building scalable, efficient web applications using modern technologies and best practices.
+- 🌱 Currently exploring **Langchain**, **LLM Models**, and **AI integration** in web applications.
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **MongoDB**, and **Tailwind CSS**.
+- 📫 Reach me at **adilzaheer612@yahoo.com**.
+- ⚡ Fun fact: **I love building scalable and efficient web applications!**
 
-## 🚀 Current Focus
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adil-zaheer/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="adilhaq" height="30" width="40" />
+  </a>
+<!--   <a href="https://www.instagram.com/adil.codes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="adil.codes" height="30" width="40" />
+  </a> -->
+</p>
 
-I'm currently expanding my expertise in:
-- **AI/ML Integration**: Exploring Langchain and LLM Models for intelligent web applications
-- **Advanced React Patterns**: Building complex, performant user interfaces
-- **Cloud Architecture**: Designing scalable solutions with AWS services
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  </a>
+</p>
 
-## 💼 Technical Expertise
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adil-Zaheer&show_icons=true&locale=en" alt="Adil-Zaheer" />
+</p>
 
-### Frontend Development
-- **React & Next.js**: Building dynamic, server-side rendered applications
-- **TypeScript**: Type-safe development for robust applications
-- **Tailwind CSS**: Creating responsive, modern user interfaces
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-Zaheer&" alt="Adil-Zaheer" />
+</p>
 
-### Backend Development
-- **Node.js & Express**: RESTful API development and server-side logic
-- **MongoDB**: Database design and optimization
-- **AWS Services**: Cloud deployment and infrastructure management
-
-### Development Tools & Practices
-- Modern JavaScript (ES6+)
-- Git version control and collaborative development
-- Agile development methodologies
-- Performance optimization and best practices
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adil-Zaheer&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adil-Zaheer&theme=default&hide_border=true)
-
-</div>
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</div>
-
-## 📫 Let's Connect
-
-I'm always interested in discussing new opportunities, collaborating on exciting projects, or sharing knowledge about web development.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-zaheer/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adilzaheer.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adil.codes)
-
-</div>
-
----
-
-<div align="center">
-  <i>💡 "Building tomorrow's web experiences, one line of code at a time."</i>
-</div>
+![snake gif](https://github.com/Adil-Zaheer/Adil-Zaheer/blob/output/github-snake-dark.svg)
