@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adil-zaheer/" target="blank">
+  <a href="https://www.linkedin.com/in/adil-zaheer-3653023b8/?skipRedirect=true" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="adilhaq" height="30" width="40" />
   </a>
 <!--   <a href="https://www.instagram.com/adil.codes" target="blank">
