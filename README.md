@@ -5,7 +5,7 @@
 
 - 🌱 Currently exploring **Langchain**, **LLM Models**, and **AI integration** in web applications.
 - 💬 Ask me about **React**, **Next.js**, **Node.js**, **MongoDB**, and **Tailwind CSS**.
-- 📫 Reach me at **adilzaheer612@yahoo.com**.
+- 📫 Reach me at **zaheeradil30@gmail.com**.
 - ⚡ Fun fact: **I love building scalable and efficient web applications!**
 
 <h3 align="left">Connect with me:</h3>
