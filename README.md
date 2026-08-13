@@ -1,17 +1,34 @@
 <h1 align="center">Hi 👋, I'm Adil Zaheer</h1>
 
 <h3 align="center">
-  Full Stack Developer • MERN Stack • React Native • Cloud & Backend
+  Full Stack Developer • Web & Mobile Application Developer
 </h3>
 
 <p align="center">
-  I build modern, scalable web and mobile applications with a strong focus on
-  clean architecture, great user experiences, and reliable backend systems.
+  I design and build modern, scalable applications with a focus on
+  performance, clean architecture, and exceptional user experiences.
+</p>
+
+<p align="center">
+  <a href="https://adil-zaheer-portfolio.vercel.app/" target="_blank">
+    🌐 <strong>Visit My Portfolio</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Adil-Zaheer">
+    💻 <strong>GitHub</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adil-zaheer-3653023b8/" target="_blank">
+    💼 <strong>LinkedIn</strong>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Adil-Zaheer">
-    <img src="https://komarev.com/ghpvc/?username=Adil-Zaheer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img
+      src="https://komarev.com/ghpvc/?username=Adil-Zaheer&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
   </a>
 </p>
 
@@ -22,17 +39,20 @@
   width="300"
 />
 
-<br>
+<br clear="right"/>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer passionate about building production-ready web and mobile applications.
+I'm a Full Stack Developer who enjoys turning ideas into reliable, production-ready products.
 
-I enjoy turning ideas into scalable products — from responsive frontend interfaces and mobile apps to APIs, databases, authentication, payments, cloud storage, and deployment.
+I work across the full development lifecycle — from designing intuitive interfaces and building responsive web and mobile applications to developing robust APIs, database systems, authentication, payments, and integrations.
 
-My main focus is the **JavaScript/TypeScript ecosystem**, with experience across modern frontend, backend, mobile, database, cloud, and payment technologies.
+I'm particularly passionate about the **JavaScript and TypeScript ecosystem** and building products that are simple to use, maintainable, and built to scale.
+
+🌐 **Portfolio:**  
+https://adil-zaheer-portfolio.vercel.app/
 
 ---
 
@@ -40,78 +60,138 @@ My main focus is the **JavaScript/TypeScript ecosystem**, with experience across
 
 <p align="left">
 
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="React"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="45" height="45"/>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    alt="React Native"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+    alt="Next.js"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://expo.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" width="45" height="45"/>
+<a href="https://expo.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg"
+    alt="Expo"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="TypeScript"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="Node.js"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="MongoDB"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+    alt="PostgreSQL"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://supabase.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="45" height="45"/>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/supabase/3ECF8E"
+    alt="Supabase"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    alt="Firebase"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://stripe.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="45" height="45"/>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/stripe/635BFF"
+    alt="Stripe"
+    width="45"
+    height="45"
+  />
 </a>
 
-<a href="https://aws.amazon.com/s3/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS S3" width="45" height="45"/>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="AWS S3"
+    width="45"
+    height="45"
+  />
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Adil-Zaheer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=Adil-Zaheer&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Adil Zaheer GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Zaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adil-Zaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Adil Zaheer Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Adil-Zaheer&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=Adil-Zaheer&theme=tokyonight&hide_border=true"
+    alt="Adil Zaheer GitHub Streak"
   />
 </p>
 
@@ -141,12 +221,20 @@ My main focus is the **JavaScript/TypeScript ecosystem**, with experience across
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adil-zaheer-3653023b8/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-    />
-  </a>
+
+<a href="https://www.linkedin.com/in/adil-zaheer-3653023b8/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    width="40"
+    height="40"
+  />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile! 🚀</strong>
 </p>
