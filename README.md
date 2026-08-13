@@ -198,8 +198,9 @@ I like keeping things simple, writing maintainable code, and solving problems th
       srcset="https://raw.githubusercontent.com/Adil-Zaheer/Adil-Zaheer/output/github-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/Adil-Zaheer/Adil-Zaheer/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
     />
   </picture>
 </p>
