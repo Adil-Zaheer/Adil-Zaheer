@@ -1,34 +1,25 @@
 <h1 align="center">Hi 👋, I'm Adil Zaheer</h1>
 
 <h3 align="center">
-  Full Stack Developer • Web & Mobile Application Developer
+  Full Stack Developer • React & React Native
 </h3>
 
 <p align="center">
-  I design and build modern, scalable applications with a focus on
-  performance, clean architecture, and exceptional user experiences.
+  I build web and mobile applications with a focus on clean code,
+  good user experiences, and practical solutions.
 </p>
 
 <p align="center">
   <a href="https://adil-zaheer-portfolio.vercel.app/" target="_blank">
-    🌐 <strong>Visit My Portfolio</strong>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Adil-Zaheer">
-    💻 <strong>GitHub</strong>
+    🌐 Portfolio
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adil-zaheer-3653023b8/" target="_blank">
-    💼 <strong>LinkedIn</strong>
+    💼 LinkedIn
   </a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/Adil-Zaheer">
-    <img
-      src="https://komarev.com/ghpvc/?username=Adil-Zaheer&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="Profile Views"
-    />
+    💻 GitHub
   </a>
 </p>
 
@@ -45,14 +36,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer who enjoys turning ideas into reliable, production-ready products.
+I'm a Full Stack Developer who enjoys building applications from the ground up.
 
-I work across the full development lifecycle — from designing intuitive interfaces and building responsive web and mobile applications to developing robust APIs, database systems, authentication, payments, and integrations.
+I mainly work with JavaScript and TypeScript, building responsive web applications, mobile apps, APIs, and database-driven systems.
 
-I'm particularly passionate about the **JavaScript and TypeScript ecosystem** and building products that are simple to use, maintainable, and built to scale.
-
-🌐 **Portfolio:**  
-https://adil-zaheer-portfolio.vercel.app/
+I like keeping things simple, writing maintainable code, and solving problems that make a product better for the people using it.
 
 ---
 
@@ -221,20 +209,12 @@ https://adil-zaheer-portfolio.vercel.app/
 ## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/adil-zaheer-3653023b8/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-    alt="LinkedIn"
-    width="40"
-    height="40"
-  />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <strong>Thanks for visiting my profile! 🚀</strong>
+  <a href="https://www.linkedin.com/in/adil-zaheer-3653023b8/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
