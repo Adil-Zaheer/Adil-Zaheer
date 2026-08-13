@@ -190,7 +190,7 @@ https://adil-zaheer-portfolio.vercel.app/
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Adil-Zaheer&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-Zaheer&theme=tokyonight&hide_border=true"
     alt="Adil Zaheer GitHub Streak"
   />
 </p>
